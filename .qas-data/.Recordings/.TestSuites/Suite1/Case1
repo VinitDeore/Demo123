@@ -1,0 +1,45 @@
+{
+    "steps": [],
+    "type": "android",
+    "capabilities": {
+        "capObj": {
+            "perfectoServer": {
+                "host": "",
+                "securityToken": "",
+                "https": true
+            },
+            "lambdaServer": {
+                "username": "",
+                "accessToken": ""
+            },
+            "desiredCapabilities": {
+                "platformVersion": "",
+                "app": "C:\\Users\\vinit.deore\\OneDrive - QMETRY INDIA PRIVATE LIMITED\\Desktop\\New folder (2)\\app (3).apk",
+                "deviceName": "",
+                "udid": "emulator-5554",
+                "noReset": true,
+                "automationName": "UiAutomator2",
+                "browserName": "",
+                "fullReset": false,
+                "autoWebview": false,
+                "newCommandTimeout": "3000",
+                "idleTimeout": "3000",
+                "platformName": "Android"
+            },
+            "type": "automaticServer",
+            "host": "localhost",
+            "port": "4723",
+            "path": "/wd/hub"
+        },
+        "type": "android",
+        "isMobileWebOnDevice": false
+    },
+    "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "recordSessionType": "multiple",
+    "tags": [],
+    "description": "",
+    "shared": false,
+    "executionStatus": "NotRun"
+}
